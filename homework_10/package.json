@@ -1,0 +1,13 @@
+{
+  "name": "homework_10",
+  "version": "1.0.0",
+  "type": "commonjs",
+  "scripts": {
+    "test": "mocha test/scenario.login.js"
+  },
+  "dependencies": {
+    "chromedriver": "^147.0.4",
+    "mocha": "^11.7.5",
+    "selenium-webdriver": "^4.43.0"
+  }
+}
